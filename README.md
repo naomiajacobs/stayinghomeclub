@@ -19,6 +19,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Asana | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
+| Benchling | Required | Restricted | ? | ? | 2020-03-11 |
 | Blink Health | Allowed | ? | ? | ? | 2020-03-09 |
 | Bluecore | Allowed | Restricted | ? | Discouraged | 2020-03-09 |
 | Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
